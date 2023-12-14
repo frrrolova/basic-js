@@ -30,18 +30,6 @@ function renameFiles(names) {
       }
     }
   }
-  // const map = new Map();
-  // const result = [];
-  // names.forEach((item) => {
-  //   if (map.has(item)) {
-  //     map.set(item, map.get(item) + 1);
-  //   } else {
-  //     map.set(item, 0);
-  //   }
-  // })
-  // map.forEach((key, val) => {
-    
-  // })
   return newArr;
 }
 
